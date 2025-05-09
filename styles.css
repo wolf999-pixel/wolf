@@ -499,7 +499,7 @@ footer p {
 .hero {
     background: 
        
-        url('./images/wolf logos.png') no-repeat center center fixed;
+        url('/wolf logos.png') no-repeat center center fixed;
         background-size: cover;
         height: 100vh;
         
