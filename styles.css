@@ -496,10 +496,10 @@ footer p {
         grid-template-columns: 1fr;
     }
 }
-}.hero {
+.hero {
     background: 
        
-        url('wolf logos.png') no-repeat center center fixed;
+        url('./images/wolf logos.png') no-repeat center center fixed;
         background-size: cover;
         height: 100vh;
         
@@ -513,12 +513,10 @@ footer p {
     .her::before{
         background-position: 60% center;
     }
-}
-
 }.hero {
     background: 
        
-        url('./wolf logos.png') no-repeat center center fixed;
+        url('./images/wolf logos.png') no-repeat center center fixed;
         background-size: cover;
         height: 100vh;
         
